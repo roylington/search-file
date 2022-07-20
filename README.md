@@ -1,4 +1,4 @@
-# hw05-search-file
+# Search file - hw05 - C
 School project that works similarly to bash 'find', has several options that restrict/extend search
 
 I am unable to provide the project requirements due to it being a school project. Therefore it has some specific features that may be redundant.
