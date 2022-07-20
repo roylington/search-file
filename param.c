@@ -158,6 +158,8 @@ void memfail()
 void help()
 {
     fprintf(stderr, "Usage:\n"
+                    "my_find -OPTIONS [DIRECTORY]\n"
+                    "if no directory is supplied - searches working directory\n"
                     "-n NAME\t Filter by substring NAME\n"
                     "-s SORT\t Sort 's' by size / 'f' by path\n"
                     "-m MASK\t Filter by permission\n"
